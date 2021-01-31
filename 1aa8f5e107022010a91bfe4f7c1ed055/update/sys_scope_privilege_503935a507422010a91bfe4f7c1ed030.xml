@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="ServiceNow - Twitter Automation">1aa8f5e107022010a91bfe4f7c1ed055</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-31 14:06:44</sys_created_on>
+        <sys_id>503935a507422010a91bfe4f7c1ed030</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: scripting</sys_name>
+        <sys_package display_value="ServiceNow - Twitter Automation" source="x_310236_sntwitter">1aa8f5e107022010a91bfe4f7c1ed055</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow - Twitter Automation">1aa8f5e107022010a91bfe4f7c1ed055</sys_scope>
+        <sys_update_name>sys_scope_privilege_503935a507422010a91bfe4f7c1ed030</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-31 14:06:44</sys_updated_on>
+        <target_name>Glide API: scripting</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

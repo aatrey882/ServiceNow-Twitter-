@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Sntwitter 1612102000739" max_length="40" name="x_310236_sntwitter_1612102000739" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=No. Of Tweets" label="No. Of Tweets" max_length="40" name="u_no__of_tweets" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Twitter User" label="Twitter User" max_length="40" name="u_twitter_user" type="string"/>
+    </element>
+</database>
